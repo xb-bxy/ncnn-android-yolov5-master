@@ -1,0 +1,30 @@
+{
+  "buildFiles": [
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslangTargets.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\SPIRVTargets-release.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OSDependentTargets.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OSDependentTargets-release.cmake",
+    "D:\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\CMakeLists.txt",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslangTargets-release.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\SPIRVTargets.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "D:\\Sdk\\ndk\\22.0.7026061\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\OGLCompilerTargets-release.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommand": "D:\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" yolov5ncnn",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\\libyolov5ncnn.so"
+    }
+  }
+}
