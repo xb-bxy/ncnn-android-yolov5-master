@@ -2,7 +2,7 @@
   "variant": {
     "module": {
       "rootBuildGradleFolder": "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master",
-      "sdkFolder": "C:\\Users\\BXY\\AppData\\Local\\Android\\Sdk",
+      "sdkFolder": "D:\\Sdk",
       "isNativeCompilerSettingsCacheEnabled": false,
       "isBuildOnlyTargetAbiEnabled": true,
       "splitsAbiFilterSet": [],
@@ -13,7 +13,7 @@
       "buildSystem": "CMAKE",
       "compilerSettingsCacheFolder": "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\.cxx",
       "cxxFolder": "C:\\Users\\BXY\\Desktop\\ncnn-android-yolov5-master\\app\\.cxx",
-      "ndkFolder": "C:\\Users\\BXY\\AppData\\Local\\Android\\Sdk\\ndk\\22.0.7026061",
+      "ndkFolder": "D:\\Sdk\\ndk\\22.0.7026061",
       "ndkVersion": "22.0.7026061",
       "ndkSupportedAbiList": [
         "ARMEABI_V7A",
