@@ -1,0 +1,6 @@
+# ninja log v5
+0	986	642092985	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	4a2865e4aa7e0885
+988	2874	642092987	libyolov5ncnn.so	41515682584c6784
+0	13	0	clean	bf1e8480bfed5af5
+3	1297	642116516	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	4a2865e4aa7e0885
+1297	1621	642116516	libyolov5ncnn.so	41515682584c6784
